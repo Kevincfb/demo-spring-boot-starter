@@ -1,2 +1,2 @@
 # demo-spring-boot-starter
-spring-boot example
+这是一个创建简单的starter 例子
