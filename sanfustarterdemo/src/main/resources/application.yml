@@ -1,0 +1,6 @@
+com:
+  sanfu:
+    demo:
+      name: Kevincfb
+      desc: 这是个被引用的三方jar包
+      url: http://m.sanfu.com
